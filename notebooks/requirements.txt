@@ -1,0 +1,10 @@
+pandas
+lightgbm
+sklearn
+spacy
+numpy
+seaborn
+nltk
+imblearn
+matplotlib
+emot
